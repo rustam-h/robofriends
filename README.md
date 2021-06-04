@@ -5,7 +5,6 @@ Simple webpage that I built while learning ReactJS with the guide provided by ZT
 ## Description
 
 * Search functionality
-* Possibility to add
 
 ## Installation
 
